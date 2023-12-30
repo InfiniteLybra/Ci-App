@@ -26,7 +26,7 @@
       <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
         <div class="navbar-nav">
           <a class="nav-item nav-link" href="<?= base_url(); ?>">Home <span class="sr-only">(current)</span></a>
-          <a class="nav-item nav-link" href="<?= base_url('mahasiswa/index'); ?>">Mahasiswa</a>
+          <a class="nav-item nav-link" href="<?= base_url(); ?>Mahasiswa">Mahasiswa</a>
           <!-- <a class="nav-item nav-link" href="#">About</a> -->
         </div>
       </div>
