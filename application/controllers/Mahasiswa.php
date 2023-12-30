@@ -9,7 +9,7 @@ class Mahasiswa extends CI_Controller
         $this->load->model('Mahasiswa_model');
         $this->load->library('form_validation');
     }
-
+    
     public function index()
     {
         $data['judul'] = 'Halaman Mahasiswa';
